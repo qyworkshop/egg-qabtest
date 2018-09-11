@@ -44,12 +44,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-qabtest.git"
+    "url": "git+https://github.com/qyworkshop/egg-qabtest.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/qyworkshop/egg-qabtest/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-qabtest#readme",
+  "homepage": "https://github.com/qyworkshop/egg-qabtest/blob/master/README.zh_CN.md",
   "author": "lee",
   "license": "MIT"
 }
